@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T09:41:45.780Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="HV1xigZAc_2ek4j-yI6D" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T09:46:32.099Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="1nU-h9co84U8KvSy1vyE" version="24.0.7" type="github">
   <diagram name="Page-1" id="SBxXnupXvsoxWS_aCSso">
     <mxGraphModel dx="1824" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         </mxCell>
         <mxCell id="Ik1Ya7TSNH6uKqL-meah-44" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ik1Ya7TSNH6uKqL-meah-42">
           <mxGeometry x="-0.2841" y="-1" relative="1" as="geometry">
-            <mxPoint x="16" y="10" as="offset" />
+            <mxPoint x="-23" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ik1Ya7TSNH6uKqL-meah-45" value="&lt;div&gt;Anmelden&lt;/div&gt;" style="html=1;shape=mxgraph.sysml.useCaseExtPt;whiteSpace=wrap;align=center;" vertex="1" parent="1">
@@ -118,11 +118,11 @@
         </mxCell>
         <mxCell id="Ik1Ya7TSNH6uKqL-meah-48" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ik1Ya7TSNH6uKqL-meah-47">
           <mxGeometry x="-0.5115" y="-1" relative="1" as="geometry">
-            <mxPoint x="25" y="9" as="offset" />
+            <mxPoint x="11" y="-71" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ik1Ya7TSNH6uKqL-meah-49" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Studenplan&lt;/div&gt;&lt;div&gt;aufrufen&lt;br&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.sysml.useCaseExtPt;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="560" y="130" width="105" height="60" as="geometry" />
+        <mxCell id="Ik1Ya7TSNH6uKqL-meah-49" value="Noten bearbeiten" style="html=1;shape=mxgraph.sysml.useCaseExtPt;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="230" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ik1Ya7TSNH6uKqL-meah-50" value="" style="resizable=0;html=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontStyle=1;" connectable="0" vertex="1" parent="Ik1Ya7TSNH6uKqL-meah-49">
           <mxGeometry x="52.5" y="12.75" as="geometry" />
@@ -144,6 +144,36 @@
         </mxCell>
         <mxCell id="Ik1Ya7TSNH6uKqL-meah-56" value="&lt;div&gt;&lt;div&gt;Vertretungsplan&lt;/div&gt;&lt;/div&gt;&lt;div&gt;sichten&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ik1Ya7TSNH6uKqL-meah-58" value="Noten sichten" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ik1Ya7TSNH6uKqL-meah-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="Ik1Ya7TSNH6uKqL-meah-58" target="Ik1Ya7TSNH6uKqL-meah-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ik1Ya7TSNH6uKqL-meah-60" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ik1Ya7TSNH6uKqL-meah-59">
+          <mxGeometry x="-0.2023" relative="1" as="geometry">
+            <mxPoint x="11" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ik1Ya7TSNH6uKqL-meah-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="Ik1Ya7TSNH6uKqL-meah-58" target="Ik1Ya7TSNH6uKqL-meah-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ik1Ya7TSNH6uKqL-meah-62" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ik1Ya7TSNH6uKqL-meah-61">
+          <mxGeometry x="-0.2983" y="1" relative="1" as="geometry">
+            <mxPoint x="29" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ik1Ya7TSNH6uKqL-meah-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Ik1Ya7TSNH6uKqL-meah-3" target="Ik1Ya7TSNH6uKqL-meah-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ik1Ya7TSNH6uKqL-meah-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Ik1Ya7TSNH6uKqL-meah-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214.99999999999977" y="299.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ik1Ya7TSNH6uKqL-meah-64" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;condition: Wenn Schüler&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;zur Klasse gehört&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="90" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
