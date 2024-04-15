@@ -1,3 +1,3 @@
 # SchulverwaltungUML
 
-Hier sind verschiedene UML Diagramme drinnen
+Dieses Projekt enthält verschiedene UML Diagramme für eine Schulverwaltung.
