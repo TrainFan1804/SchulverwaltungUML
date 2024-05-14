@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-14T08:35:54.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="dMvtup-321e02n018DZ1" version="24.4.0" type="device">
+<mxfile host="Electron" modified="2024-05-14T08:44:14.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="UZ7IZBYY5qKviO98GHI-" version="24.4.0" type="device">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1285" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
             <mxPoint x="275" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mZRMCHZp81WvQUp7m2Xm-8" value="Schulleitung" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="mZRMCHZp81WvQUp7m2Xm-5">
+        <mxCell id="mZRMCHZp81WvQUp7m2Xm-8" value="Schule" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="mZRMCHZp81WvQUp7m2Xm-5">
           <mxGeometry y="310" width="1570" height="140" as="geometry" />
         </mxCell>
         <mxCell id="w0Vz86xxIUw0Jx15xpuw-7" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" parent="mZRMCHZp81WvQUp7m2Xm-8" vertex="1">
