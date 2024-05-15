@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T12:07:56.688Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="niSOduH6hDWlbf_DaxL3" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T12:12:39.577Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="08UhCpz_CykuIsa5ZYxb" version="24.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1254" dy="2826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1339" dy="2923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -289,7 +289,7 @@
             <mxPoint x="-6" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WbwawXartxjEZme_BU2b-9" value="&lt;div&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;LearningCommunity&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WbwawXartxjEZme_BU2b-9" value="&lt;div&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IClassMember&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-80" y="-1811.5" width="270" height="99" as="geometry" />
         </mxCell>
         <mxCell id="WbwawXartxjEZme_BU2b-11" value="&lt;div align=&quot;left&quot;&gt;+ getGrades(pupil: Pupil): Grade&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ getTimetable(): Timetable&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ getSubstituteSchedule():&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;SubstituteSchedule&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ getCalendar(): Calendar&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WbwawXartxjEZme_BU2b-9" vertex="1">
