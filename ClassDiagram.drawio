@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T12:07:37.231Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="fhb5nwjAvCBn7lRlJk0i" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T12:07:56.688Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="niSOduH6hDWlbf_DaxL3" version="24.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1254" dy="2826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -203,18 +203,15 @@
           <mxGeometry y="118" width="170" height="52" as="geometry" />
         </mxCell>
         <mxCell id="rrHhDad-GqAPhSAh23OG-12" value="Calendar" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-277" y="-2090" width="160" height="110" as="geometry">
+          <mxGeometry x="-277" y="-2090" width="160" height="84" as="geometry">
             <mxRectangle x="-460" y="-1386" width="90" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rrHhDad-GqAPhSAh23OG-13" value="- events: Event[]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="rrHhDad-GqAPhSAh23OG-12" vertex="1">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="rrHhDad-GqAPhSAh23OG-14" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="rrHhDad-GqAPhSAh23OG-12" vertex="1">
-          <mxGeometry y="52" width="160" height="8" as="geometry" />
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="rrHhDad-GqAPhSAh23OG-15" value="+ getEvents(): Event[]&lt;div&gt;+ addEvent(event: Event): boolean&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="rrHhDad-GqAPhSAh23OG-12" vertex="1">
-          <mxGeometry y="60" width="160" height="50" as="geometry" />
+          <mxGeometry y="34" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v6CMzdKw22sWxw8PzKiO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rrHhDad-GqAPhSAh23OG-24" target="WbwawXartxjEZme_BU2b-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
