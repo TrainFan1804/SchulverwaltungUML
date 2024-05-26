@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T08:18:51.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="KCz_RvXspwVldEEnegUo" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T08:20:08.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="bVVF78zTnZos-6GzT51R" version="24.4.8" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2052" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mZRMCHZp81WvQUp7m2Xm-5" value="Schuljahr beginnen" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="1570" height="520" as="geometry" />
+          <mxGeometry y="40" width="1570" height="520" as="geometry" />
         </mxCell>
         <mxCell id="mZRMCHZp81WvQUp7m2Xm-6" value="&lt;b&gt;Schüler&lt;/b&gt;" style="swimlane;html=1;startSize=20;horizontal=0;fontStyle=0" parent="mZRMCHZp81WvQUp7m2Xm-5" vertex="1">
           <mxGeometry y="20" width="1570" height="170" as="geometry" />
@@ -211,10 +211,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wMxDB_Z8VR1ao8G9F_TW-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="620" width="650" height="180" as="geometry" />
+          <mxGeometry y="620" width="650" height="180" as="geometry" />
         </mxCell>
         <mxCell id="wMxDB_Z8VR1ao8G9F_TW-26" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Beschreibung&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;Das Diagramm veranschaulicht den Ablauf der Schüleraufnahme und den Beginn des Schuljahres in einer strukturierten Weise. Es zeigt die Interaktionen zwischen Schülern, Lehrern und der Schulverwaltung sowie die parallelen Prozesse, die für einen reibungslosen Start des Schuljahres notwendig sind. Der Schüler wird dabei von der Anmeldung bis zum Beginn des Unterrichts begleitet, während die Schule im Hintergrund die notwendigen organisatorischen Schritte durchführt.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="620" width="580" height="180" as="geometry" />
+          <mxGeometry x="30" y="620" width="580" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
