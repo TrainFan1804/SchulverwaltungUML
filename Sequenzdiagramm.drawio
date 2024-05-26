@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-05-15T11:35:26.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="z6nMzV3-fSfAuIkiC-f7" version="24.4.0" type="device">
+<mxfile host="app.diagrams.net" modified="2024-05-26T08:11:15.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="WN7IO2mI2pkAjyTMMxrV" version="24.2.5" type="github">
   <diagram name="Page-1" id="lqil6zeCuKkwjWcCTeRo">
-    <mxGraphModel dx="3323" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3752" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,10 +210,10 @@
         <mxCell id="LGZqytboxsc6lPR2mBcq-95" value="grade.active == true" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-820" y="585" width="171.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HVyW2HjTPRe6w9ZBWH31-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HVyW2HjTPRe6w9ZBWH31-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1600" y="780" width="650" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="HVyW2HjTPRe6w9ZBWH31-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Beschreibung&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Dieses Sequenzdiagramm zeigt, wie ein Lehrer ein neues Event zum Kalender der Klasse hinzufügt und wie ein Schüler den Kalender und die Events abruft. Zudem aktualisiert der Lehrer die Note des Schülers. Die Interaktionen beinhalten Methodenaufrufe zur Änderung des Kalenders und der Noten sowie das Abrufen von Kalenderinformationen. Alle Aktionen werden erfolgreich durchgeführt und bestätigen die Änderungen.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HVyW2HjTPRe6w9ZBWH31-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Beschreibung&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Dieses Sequenzdiagramm zeigt, wie ein Lehrer ein neues Event zum Kalender der Klasse hinzufügt und wie ein Schüler den Kalender und die Events abruft. Zudem aktualisiert der Lehrer die Note des Schülers. Die Interaktionen beinhalten Methodenaufrufe zur Änderung des Kalenders und der Noten sowie das Abrufen von Kalenderinformationen. Alle Aktionen werden erfolgreich durchgeführt und bestätigen die Änderungen.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1570" y="780" width="590" height="190" as="geometry" />
         </mxCell>
       </root>
